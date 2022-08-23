@@ -1,0 +1,96 @@
+Tue,Thu,Sat-8:30 to 10:00
+
+Github Account
+Tops Carrer Center
+
+Setup:
+
+Compiler=>JDK
+
+
+jdk 17
+
+Stable version-JDK 11
+
+Steps for JDK Installation
+1)Download JDK
+2)Install JDK
+3)Set the path for JDK
+C:\Program Files\Java\jdk1.8.0_191\bin
+
+This PC=>Right Click =>Properties=>Advanced System
+settings=>Enviroment Variables=>User Variables=>Click on New
+=>Paste your path =>OK
+
+=>Open your CMD and type javac it will generate some code
+
+
+
+JDK=>Java Development Kit=>Compiler
+JRE=>Java Runtime Environment=>System Library
+JVM=>Java Virtual Machine=>Machine
+
+
+2)Download and Install Editor:
+
+Eclipse -> https://www.eclipse.org/downloads/packages/release/juno/sr2/eclipse-ide-java-developers
+
+
+-------------------------------------------
+
+public ->Access Modifier/Specifier
+static ->fixed
+void ->which returns null value
+main ->method name
+
+Access Modifier:
+public->Everyone
+private->Friends
+protected->With permission
+
+=
+==
+
+Conditional statement
+If-else
+Else if
+Nested If
+Switch,case,break
+
+Loop:
+For,While,Do While
+
+syntax:
+
+1)for(initialization;condition;incre/decre)
+{
+	statement /code
+}
+
+2)
+initialization;
+
+while(condition)
+{
+	statement
+	incre/decre;
+}
+
+3)
+
+intialization;
+
+do
+{
+	statement;
+	incre/decre;
+}
+while(condition);
+
+
+
+
+
+
+
+
