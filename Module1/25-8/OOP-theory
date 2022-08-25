@@ -1,0 +1,63 @@
+OOP:Object Oriented Programming
+
+Features of OOP:
+1)Object:Any entity which has own state and behaviour
+ex:pen,paper etc..[Any Living things]
+
+2)Class:Collection of objects[Having a data members]
+ex:Human Body
+
+3)Abstraction:Hiding internal details and 
+showing funcitonalities
+ex:Login Page
+
+4)Encapsualtion:Wrapping or Binding up of data
+ex:Zip File[Capsule]
+
+5)Inheritance:When One object acquire all the properites and 
+behaviour of parent class
+
+6)Polymorphism:Many ways to perform anything
+ex:Ways
+
+Package
+Without Package-Default Package
+
+Syntax for object creation:
+
+Classname objname =new classname();
+
+UserInput=>
+
+printf->system.out.println()
+scanf->Scanner
+
+
+int
+Integer
+
+Constructor=>when method having a same name as a classname
+parameter[argument]
+types of constructor
+1)Default
+2)Parameterized
+3)Copy
+
+
+Refrence Keyword->this
+
+Static=>Fixed
+1)Variable
+2)Method
+3)Block
+
+Keywords:
+this
+static
+super
+final
+
+
+
+
+
