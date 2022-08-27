@@ -1,0 +1,34 @@
+Encapsulation:Wrapping up of data or binding of data
+
+Inheritance:
+
+Types of inheritance
+1)Single
+2)Multilevel
+3)Multiple
+4)Hierarchical
+5)Hybrid
+
+interface:Collection of abstract methods
+
+abstract method->A method which does not have a body part
+
+//Non-Abstract Method
+void a()
+{
+	//body part
+}
+
+//Abstract Method
+void a();
+
+keywords:
+this
+static
+final
+super
+
+
+
+
+
