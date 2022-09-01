@@ -1,0 +1,19 @@
+W.A.J.P to create a custom exception if Customer withdraw amount which is greater
+than account balance then program will show custom exception otherwise amount
+will deduct from account balance. Account balance is: 2000 Enter withdraw amount:
+2500
+Sorry, insufficient balance, you need more 500 Rs. To perform this transaction.
+
+• W.A.J.P to create a class Student with attributes roll no, name, age and course.
+Initialize values through parameterized constructor. If age of student is not in
+between 15 and 21 then generate user defined exception
+"AgeNotWithinRangeException". If name contains numbers or special symbols
+raise exception "NameNotValidException". Define the two exception classes.
+
+• W.A.J. P to create one thread by implementing Runnable interface in
+Class.
+
+• W.A.J. P to create one thread by extending Thread class in another Class
+
+• W.A.J.P to create 2 threads and execute that threads by providing sleep time as
+2000ms and check the execution.
