@@ -1,0 +1,61 @@
+Array:
+
+this->refrence[pa]
+super
+
+int id;
+
+public Tops(int id)
+{
+	this.id=id;
+}
+
+super=>parent class variable
+
+class A
+{
+	String name="parita";
+}
+class B extends A
+{
+	String name="harsh";
+	void display()
+	{
+		syso(name);
+		syso(super.name);
+	}
+}
+main()
+{
+	B b =new B();
+	b.display();
+
+	
+
+}
+Array:Collection of items
+
+Types of Array
+1)single
+2)multi
+
+
+  0 1 2
+0 1 2 3 
+1 4 5 6
+2 7 8 9
+
+
+
+[0][0]=1
+[0][1]=2
+[0][2]=3
+[1][0]
+[1][1]
+[1][2]
+[2][0]
+[2][1]
+[2][2]
+
+
+
