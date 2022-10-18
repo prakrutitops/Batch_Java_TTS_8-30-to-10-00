@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+
+<script type="text/javascript">
+
+	function notempty(elem,msg) 
+	{
+		
+		if(elem.value.length==0)
+		{
+			alert(msg);
+			elem.focus();
+			return false;
+		}
+		
+		return true;
+		
+	}
+	
+	function numbersdata(elem,msg) 
+	{
+		
+		var data =/^[0-9]+$/;
+		if(elem.value.match(data))
+		{
+			return true;	
+		}
+		else
+		{
+			alert(msg);
+			elem.focus();
+			return false;
+		}
+		
+		
+	}
+</script>
+
+</head>
+<body>
+
+<form>
+	<input type="text" name="name" id="myname">
+	<input type="button"value="Go" onclick="numbersdata(document.getElementById('myname'),'Please Enter Number Only')">
+</form>
+</body>
+</html>
